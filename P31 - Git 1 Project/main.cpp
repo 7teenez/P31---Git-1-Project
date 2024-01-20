@@ -11,6 +11,7 @@ int main() {
 	cin >> r;
 
 	cout << "S = " << pi * pow(r, 2) << " cm^2" << endl;
+	cout << "L = " << 2 * pi * r << " cm" << endl;
 
 	return 0;
 }
